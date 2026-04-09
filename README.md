@@ -10,7 +10,7 @@ This project deploys a full-stack Notes App using Docker Compose with three serv
 
 ## Project Structure
 
-For project structure refer this  [Repo](https://github.com/vamsi-krishna2580/MERN)
+For project structure refer this [Repo](https://github.com/vamsi-krishna2580/MERN/tree/main/notes-app)
 
 ---
 
