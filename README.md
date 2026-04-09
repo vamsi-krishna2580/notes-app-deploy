@@ -11,19 +11,7 @@ This project deploys a full-stack Notes App using Docker Compose with three serv
 ## Project Structure
 
 ```bash
-dockerised-notes-app/
-├── backend/
-│   ├── .env.example
-│   ├── .env
-│   ├── Dockerfile
-│   └── ...
-├── frontend/
-│   ├── .env.example
-│   ├── .env
-│   ├── Dockerfile
-│   └── ...
-├── docker-compose.yaml
-└── README.md
+For project structure refer this[Repo](https://github.com/vamsi-krishna2580/MERN)
 ```
 
 ---
